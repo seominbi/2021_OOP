@@ -7,5 +7,6 @@ public class OOP1_2 {
         if(num/10==num%10){
             System.out.println("Yes! 10의 자리와 1의 자리가 같습니다.");
         }
+        scanner.close();
     }
 }

@@ -16,7 +16,7 @@ public class OOP1_10 {
         if(d<=r1+r2){
             System.out.println("두 원은 서로 겹친다.");
         }else{
-            ;
+            System.out.println("두 원은 서로 안 겹친다.");
         }
         scanner.close();
     }

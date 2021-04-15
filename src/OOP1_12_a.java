@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class OOP1_12 {
+public class OOP1_12_a {
     public static void main(String[] args) {
         System.out.print("연산>>");
         Scanner scanner=new Scanner(System.in);

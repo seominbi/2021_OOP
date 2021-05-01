@@ -10,7 +10,7 @@ public class OOP2_8 {
 
         for(int i=0; i<num;i++) {
             array[i] = (int) (Math.random() * 100 + 1);
-            for (int j = 1; j < i; j++) {
+            for (int j = 0; j < i; j++) {
                 if(array[i]==array[j]){
                     i--;
                     break;
